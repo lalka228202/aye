@@ -1,5 +1,5 @@
 # aye
-![image](https://commons.wikimedia.org/wiki/File:Adansonia_digitata.jpg#/media/Файл:Adansonia_digitata.jpg)
+![this is img](https://commons.wikimedia.org/wiki/File:Adansonia_digitata.jpg#/media/Файл:Adansonia_digitata.jpg)
 # I'm a js creator. 
 ## This is example of my code:
 ```javascript
