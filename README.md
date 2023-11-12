@@ -1,7 +1,8 @@
 # aye
 ![this is img](https://commons.wikimedia.org/wiki/File:Aluminium-thugun.JPG#/media/Файл:Aluminium-thugun.JPG)
-i'm a js creator.This is example of my code:
-```$.ajax('http://www.boredapi.com/api/activity/?${params}', {
+#I'm a js creator.##This is example of my code:
+```javascript
+	$.ajax('http://www.boredapi.com/api/activity/?${params}', {
 		success:function(result){
 			$('#result').show();
 			let html=`
@@ -22,4 +23,5 @@ i'm a js creator.This is example of my code:
 		error:function(xhr){
 			console.log(xhr.statusText)
 		}
-	})```
+	})
+```
