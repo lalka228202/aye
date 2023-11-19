@@ -1,0 +1,27 @@
+.spis1{
+	background-color: black;
+	width: 100px;
+	height: 110px;
+}
+.did{
+	color: white;
+}
+.all{
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+}
+body{
+	background-color: #2F4F4F;
+}
+.spis2{
+	background-color: black;
+	width: 100px;
+	height: 60px;
+}
+#a{
+	color: white;
+}
+#b{
+	color: white;
+}
